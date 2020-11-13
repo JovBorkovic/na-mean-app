@@ -1,0 +1,10 @@
+.spacer{
+    width: 100%;
+}
+
+li {
+    list-style-type: none;
+}
+ul{
+    display: flex;
+}
